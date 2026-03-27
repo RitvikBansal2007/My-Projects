@@ -10,6 +10,6 @@ It was a CLI iplementation of twixt board game though it was made using the help
 The Link of video how it works https://drive.google.com/file/d/1UiUh_HvknqkohDly8acZBhYjHcq5waoW/view?usp=sharing 
 
 # Project 3: Hack IIIT'26 Hackathon Project(Digitalising IIIT Communinty Whatsapp Group)
-It was a hackathon project made by my team ChatGPT it was fun to make it.TBH we didn't write a single line of code we just gave prompt to AI and it did it's work the main Idea was ours. We made a whatapp bot to handle mess buy-sell QRs and a website also but we were unable to work alot on it and we have much higher plans for that but due to time constraints we didn't complete it But it was fun making this 😁. 
+It was a hackathon project made by my team ChatGPT it was fun to make it.TBH we didn't write a single line of code we just gave prompt to AI and it did it's work the main idea was ours. We made a whatsapp bot to handle mess buy-sell QRs and a website also but we were unable to work alot on it and we have much higher plans for that but due to time constraints we didn't complete it But it was fun making this 😁. 
 The Link of video how it works https://drive.google.com/file/d/1SZJt9s5sIg9TX9RHJ2OjyakrJQRIsiwa/view?usp=drive_link 
 Presentation Link of Project https://drive.google.com/file/d/1vjW3zDJPpFq5ms6cMfduX7eC5B4c5tq1/view?usp=drive_link 
