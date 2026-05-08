@@ -23,3 +23,5 @@ The link of video how it works https://drive.google.com/file/d/1YKtI76sZvJOvHXX-
 Photos can be viewed here https://drive.google.com/drive/folders/1GzuVVC4fs1wjmz0hswQq08BGXOHuN4Jc?usp=drive_link
 and also the security website is deployed on https://ritvikbansal2007.github.io/vault-dashboard/ one can login using crdentials as Username=TA Password=3456 Even though it will just show Past status as project is offline and won't really update now 
 Also I want to pointout to conserve hardware website,bandwidth and quick responses I used MQTT protocol to receive status from ESP32, then made a js bridge to link these MQTT packets received from ESP(HIVE MQ MQTT Broker) and deployed this bridge on Render which updated my Firebase Database which is accessed by My Website and App to show every detail and also username and passwords were hashed so if anyone got access to password they can't access the website or app. So this was the overall project it was really fun to make it.
+
+## Project 6: Tic Tac Toe Multiplayer Game exclusive for IIITH 2025 Batch
